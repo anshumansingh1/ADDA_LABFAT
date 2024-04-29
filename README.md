@@ -1,6 +1,7 @@
 # ADDA_LABFAT
 
-> QUESTION
+QUESTION
+
 Implement a CI/CD pipeline with the following real-world scenario:
 
 Scenario: You're writing documentation using Markdown files.
