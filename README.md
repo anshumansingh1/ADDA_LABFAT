@@ -10,7 +10,7 @@
   - [Scenario:](#scenario)
   - [Task:](#task)
 - [STEPS](#steps)
-  - [1) Create a repository (preferably public)](#1-create-a-repository-preferably-public)
+  - [1) Create a repository (ADDA LABFAT)](#1-create-a-repository-adda-labfat)
   - [2) Add the TOC Generator action from marketplace. Steps are as follows:](#2-add-the-toc-generator-action-from-marketplace-steps-are-as-follows)
   - [3) For the external action to do modifications to our readme file we will need to provide it access to our repo by providing a ADDA_ACCESS_TOKEN. Which can be done as follows:](#3-for-the-external-action-to-do-modifications-to-our-readme-file-we-will-need-to-provide-it-access-to-our-repo-by-providing-a-adda_access_token-which-can-be-done-as-follows)
     - [a) Goto your account Settings > Developer Settings > Personal access tokens > Tokens (classic)](#a-goto-your-account-settings--developer-settings--personal-access-tokens--tokens-classic)
