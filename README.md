@@ -40,10 +40,10 @@ Create a workflow that runs on push to any branch and uses an action like action
 ## 1) Create a repository (preferably public)
 ## 2) Add the [TOC Generator](https://github.com/marketplace/actions/toc-generator) action from marketplace. Steps are as follows:
 ## 3) For the external action to do modifications to our readme file we will need to provide it access to our repo by providing a ADDA_ACCESS_TOKEN. Which can be done as follows:
-### a) Goto your account Settings > Developer Settings > Personal access tokens > Tokens (classic)
-### b) Create a ACCESS_TOKEN giving PUSH access
-### c) Copy the secret key, we will need it later
+  ### a) Goto your account Settings > Developer Settings > Personal access tokens > Tokens (classic)
+  ### b) Create a ACCESS_TOKEN giving PUSH access
+  ### c) Copy the secret key, we will need it later
 ## 4) Add the ADDA_ACCESS_TOKEN to the repo's Secrets
-### a) Goto repo's Setings > Security > Secrets and variables > Actions > New repository secret
-### b) Add the new repo secret with name ADDA_ACCESS_TOKEN
+  ### a) Goto repo's Setings > Security > Secrets and variables > Actions > New repository secret
+  ### b) Add the new repo secret with name ADDA_ACCESS_TOKEN
 ## 5) Now we are good to go. The TOCs must be getting generated upon PUSH
