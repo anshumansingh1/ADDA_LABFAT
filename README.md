@@ -37,7 +37,7 @@ Create a workflow that runs on push to any branch and uses an action like action
 
 # STEPS
 
-## 1) Create a repository (preferably public)
+## 1) Create a repository (ADDA LABFAT)
 ## 2) Add the [TOC Generator](https://github.com/marketplace/actions/toc-generator) action from marketplace. Steps are as follows:
 ## 3) For the external action to do modifications to our readme file we will need to provide it access to our repo by providing a ADDA_ACCESS_TOKEN. Which can be done as follows:
   ### a) Goto your account Settings > Developer Settings > Personal access tokens > Tokens (classic)
