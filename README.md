@@ -1,5 +1,8 @@
 # ADDA_LABFAT
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 QUESTION
 
 Implement a CI/CD pipeline with the following real-world scenario:
