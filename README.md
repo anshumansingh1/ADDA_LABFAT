@@ -22,6 +22,10 @@
     - [a) Goto repo's Setings > Security > Secrets and variables > Actions > New repository secret](#a-goto-repos-setings--security--secrets-and-variables--actions--new-repository-secret)
     - [b) Add the new repo secret with name ADDA_ACCESS_TOKEN](#b-add-the-new-repo-secret-with-name-adda_access_token)
   - [5) Now we are good to go. The TOCs must be getting generated upon PUSH](#5-now-we-are-good-to-go-the-tocs-must-be-getting-generated-upon-push)
+- [Best prctices used:](#best-prctices-used)
+  - [Version control](#version-control)
+  - [Error handling:](#error-handling)
+  - [Security:](#security)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
