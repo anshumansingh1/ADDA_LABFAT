@@ -1,7 +1,7 @@
 # ADDA_LABFAT
 
-# ANSHUMAN SINGH
-# 20MIC0026
+# NAME: ANSHUMAN SINGH
+# REG. NO.: 20MIC0026
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -63,3 +63,17 @@ jobs:
   ### a) Goto repo's Setings > Security > Secrets and variables > Actions > New repository secret
   ### b) Add the new repo secret with name ADDA_ACCESS_TOKEN
 ## 5) Now we are good to go. The TOCs must be getting generated upon PUSH
+
+# Best prctices used:
+
+## Version control
+
+Used a version control system (VCS) like Git to track changes.
+
+## Error handling:
+
+Implemented clear and informative error messages to identify the root cause of issues.
+
+## Security: 
+
+Secured the pipeline by managing access controls with only required limited access
